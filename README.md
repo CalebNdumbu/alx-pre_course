@@ -1,3 +1,2 @@
 My first readme
-im loving coding
-
+i'm honestly loving programming
